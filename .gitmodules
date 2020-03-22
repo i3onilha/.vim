@@ -222,3 +222,6 @@
 [submodule "bundle/vim-es6"]
 	path = bundle/vim-es6
 	url = https://github.com/isruslan/vim-es6.git
+[submodule "bundle/vim-lint"]
+	path = bundle/vim-lint
+	url = https://github.com/dbakker/vim-lint.git
