@@ -228,3 +228,6 @@
 [submodule "bundle/vim-vue-plugin"]
 	path = bundle/vim-vue-plugin
 	url = https://github.com/leafoftree/vim-vue-plugin.git
+[submodule "bundle/coc.nvim"]
+	path = bundle/coc.nvim
+	url = https://github.com/neoclide/coc.nvim
